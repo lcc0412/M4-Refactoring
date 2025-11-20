@@ -1,3 +1,4 @@
+2d43c83 Task 2.3: Removing the frmt Variable
 7250b2e Task 2.2:Extracting Volume Credits
 b17074e Task2.1:Extracting the swtich statement logic
 5147540 Task 1.2: log commit
